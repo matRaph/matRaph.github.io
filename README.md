@@ -8,5 +8,9 @@ And you can also run the only boss fight version on this one:
 
 matRaph.github.io/AgainstTheStoryProject/ATSBossVersion/  
 
+And here is the project GDD:  
+
+https://suap.ifrn.edu.br/media/edu/projeto_final/RPP_2-cb74ed72d9514ea8891aa0f5c00d5473.pdf  
+
 
 Hope you enjoy it! :)
